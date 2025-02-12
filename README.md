@@ -1,8 +1,8 @@
-# Marketing-Dashboard
-This repository contains a detailed data-driven analysis of a Google Ads marketing dashboard, showcasing key performance metrics, business insights, and optimization strategies. The analysis identifies trends in ad performance and provides actionable recommendations to enhance ROI.
 Marketing Dashboard Analysis
+
 📊 Google Ads Marketing Performance Report
-This document provides a data-driven analysis of a Google Ads marketing dashboard, identifying key performance metrics, trends, and actionable insights for optimization.
+
+This repository contains a comprehensive analysis of a Google Ads marketing dashboard, highlighting key performance metrics, trends, and strategies for improvement. The focus is on maximizing ad efficiency, lowering costs, and boosting ROI using data-driven insights.
 
 📌 Key Performance Indicators (KPIs)
 
@@ -74,6 +74,11 @@ By implementing these data-driven optimizations, marketing campaigns can drive h
 
 📌 If you find this analysis helpful, feel free to contribute or discuss strategies in the comments! 🚀
 
-📍 Author: [Your Name]📍 LinkedIn: Your LinkedIn Profile📍 GitHub Repo: Your GitHub Repository📍 Power BI Report: View Here
+📍 Author: Kash Verma
+
+📍 LinkedIn: https://www.linkedin.com/in/kash-verma/
+
+📍 Power BI Report: https://app.powerbi.com/reportEmbed?reportId=55ef96c3-d269-4d09-bcde-202de9817cf7&autoAuth=true&ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab
 
 #GoogleAds #MarketingAnalytics #DataScience #DigitalMarketing #AdPerformance #BusinessGrowth
+
